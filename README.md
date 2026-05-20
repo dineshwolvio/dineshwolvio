@@ -22,28 +22,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,ts,firebase,mongodb,git,github,figma,vscode" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dineshwolvio&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshwolvio&theme=radical" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/dinesh-off">LinkedIn</a> |
-  <a href="https://github.com/dineshwolvio">GitHub</a>
-</p>
-
----
-
-⭐ From [dineshwolvio](https://github.com/dineshwolvio)
